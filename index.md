@@ -60,7 +60,7 @@ __University of Bremen, Bremen, Germany__
 __SimCorp, Copenhagen, Denmark__
 
 - Senior Software Developer, Tech Lead
-- C\#, OCaml and F\#,
+- C\#, OCaml and F\#
 
 `2014-2015`
 __IT University, Copenhagen, Denmark__
