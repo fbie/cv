@@ -36,34 +36,6 @@ __IT University of Copenhagen, Denmark__
 - Dissertation: ["Data-Parallel Spreadsheet Programming"](https://pure.itu.dk/portal/en/publications/id(4c3a3148-5ab5-4c8c-82b6-4e623a8789b4).html)
 - Supervised by Prof. Peter Sestoft
 
-<details>
-<summary>More details</summary>
-
-During my PhD project, I researched techniques for fully automated
-parallelization of spreadsheet programs. I implemented these
-techniques in Funcalc, a research prototype spreadsheet implementation
-that allows for sheet-defined functions, developed by my supervisor.
-Over the course of my project, I published three papers investigating
-different automatic parallelization techniques:
-
-
-- data-parallel approaches, including structural re-writing of highly
-  parallel spreadsheet cell structures into higher-order, parallel
-  functional programs; and
-- data-flow approaches for dynamic, whole-program parallelization
-  based on optimistic heuristics.
-
-I spent a substantial amount of my PhD at the University of the
-Chinese Academy of Sciences (UCAS) in Beijing, where I collaborated
-with different researchers.
-
-My teaching tasks included:
-- Popular Concurrent and Parallel Programming, ITU, fall 2015;
-- Functional programming, UCAS, spring 2016; and
-- Popular Concurrent and Parallel Programming, ITU, fall 2017.
-</details>
-
-
 `2012-2014`
 __IT University of Copenhagen, Denmark__
 
@@ -90,69 +62,11 @@ __SimCorp, Copenhagen, Denmark__
 - Senior Software Developer, Tech Lead
 - C\#, OCaml and F\#
 
-<details>
-<summary>More details</summary>
-
-My work revolves around the implementation of the Trade Manager
-application for bookkeeping of OTC derivative trades. In particular, I
-work with:
-
-- implementing OTC contract logic in an embedded DSL in OCaml;
-- developing and maintaining the DSL interpreter in C\#;
-- planning and grooming features together with product owners, system
-  architects and other stake holders.
-
-As on of the senior members of the team, I regularly perform
-onboarding and coaching of more junior members of the team. As
-tech-lead, I spend a significant amount of time advising architects
-and project managers in technical matters.
-
-The following list contains some of the projects I have been working
-on:
-
-- Improving performance of executing the contract models implemented
-  in the OCaml DSL by introducing new data structures that increase
-  data-sharing, resulting in hundreds of megabytes lower memory
-  consumption.
-
-- A zero-overhead API for the Trade Manager: design and
-  implementation, including a C\# embedded DSL for interacting with
-  OTC contract objects.
-
-- Implementing a variant of the Cucumber language using this API:
-  making lightweight test automation available to non-programmer test
-  analysts and resulting in higher quality releases measured by the
-  number of customer defects.
-
-- The migration of tests written in an inaccessible legacy OCaml-DSL
-  to Cucumber: design of the strategy as an interpreter
-  instrumentation and run-time introspection and an initial
-  implementation, resulting in more than 600 subtle business logic
-  test cases executed multiple times a day and previously making
-  hidden documentation about system behavior accessible.
-
-- Designing a new architecture for Trade Manager data import:
-  replacing a hard to maintain legacy implementation based on ad-hoc
-  recursive calls to implementations of abstract classes by a
-  principled approach using continuation-passing style.
-
-</details>
-
 `2014-2015`
 __IT University, Copenhagen, Denmark__
 
 - Research assistant
 - Java, F\#
-
-<details>
-<summary>More details</summary>
-
-I designed and implemented a Java FX virtual-reality application
-rendering LEGO construction manuals step-by-step, where the user can
-move between steps and manipulate a 3D model of the LEGO model using
-only their eyes. This project was showcased at CES 2015.
-
-</details>
 
 `2013-2014`
 __Medial Insight A/S, Copenhagen, Denmark__
