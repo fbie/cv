@@ -77,4 +77,39 @@ __Medial Insight A/S, Copenhagen, Denmark__
 
 ## Publications
 
-To be added.
+`2018`
+__[Puncalc: Task-Based Parallelism and Speculative Reevaluation in Spreadsheets](https://doi.org/10.1007/s11227-019-02823-8)__.
+- with Alexander Asp Bock.
+- HLPP '18 and The Journal of Supercomputing.
+
+
+__[Rewriting High-Level Spreadsheet Structures into Higher-Order Functional Programs](https://doi.org/10.1007/978-3-319-73305-0_2)__
+- with Wensheng Dou and Peter Sestoft.
+- PADL '18.
+
+`2017`
+__[Quad Ropes: Immutable, Declarative Arrays with Parallelizable Operations](http://dl.acm.org/citation.cfm?id=3091971)__
+- with Peter Sestoft.
+- ARRAY '17.
+
+`2016`
+__[Declarative Parallel Programming in Spreadsheet End-User Development](https://pure.itu.dk/portal/files/80807389/ITU_TR_2016_192.pdf)__
+- Technical report.
+
+__[Wrist-worn Pervasive Gaze Interaction](http://dx.doi.org/10.1145/2857491.2857514)__
+- with John Paulin Hansen, Haakon Lund, Emilie Møllenbach, Sebastian Sztuk and Javier San Agustin.
+- ETRA '16.
+
+`2015`
+__[A Gaze Interactive Textual Smartwatch Interface](http://dx.doi.org/10.1145/2800835.2804332)__
+- with John Paulin Hansen, Janus Aksø Madsen, Morten Jonassen, Haakon Lund, Javier San Agustin and Sebastian Sztuk,
+- UbiComp '15
+
+__[A GazeWatch Pototype](http://dx.doi.org/10.1145/2786567.2792899)__
+- with John Paulin Hansen, Emilie Møllenbach, Haakon Lund, Javier San Agustin, Sebastian Sztuk
+- MobileHCI '15
+
+`2012`
+__[The Animation Loop Station: Near Real-Time Animation Production](http://dx.doi.org/10.1007/978-3-642-33542-6_55)__
+- with Benjamin Walther-Franks, Nikolaas Steenbergen and Rainer Malaka
+- ICEC '12
