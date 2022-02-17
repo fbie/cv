@@ -1,91 +1,86 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Florian Biermann's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Florian Biermann
+Software Engineer, PhD in Computer Science
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="florian.biermann@protonmail.com">florian.biermann@protonmail.com</a>
+<a href="https://github.com/fbie">My GitHub page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Tech Lead, Senior Software Engineer at SimCorp.
 
-### Specialized in
+## Overview ##
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Object-oriented and functional programming; weak memory models; concurrency and parallel programming.
 
+### Programming languages ###
 
-### Research interests
+`Currently`
+C\#, F\#, OCaml, Emacs Lisp
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`Previously`
+Java, C++, Python, Ruby, Racket
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2015-2018`
+__IT University of Copenhagen, Denmark__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- PhD in Computer Science
+- Dissertation title: "Data-Parallel Spreadsheet Programming"
+- Supervised by Prof. Peter Sestoft
 
-- Sizar
+`2012-2014`
+__IT University of Copenhagen, Denmark__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- M.Sc. in Software Engineering
+- Thesis title: "Connected Set Filtering on Shared Memory Multiprocessors"
+- Supervised by Prof. Peter Sestoft
 
-- Fellow
+`2010-2011`
+__Art Institute of Boston, Boston, USA__
+
+- Exchange student
+
+`2008-2011`
+__University of Bremen, Bremen, Germany__
+
+- B.Sc. in Digital Media
 
 
+## Employment
 
-## Awards
+`2018-now`
+__SimCorp, Copenhagen, Denmark__
 
-`2012`
-President, *Royal Society*, London, UK
+- Senior Software Developer, Tech Lead
 
-Associate, *French Academy of Science*, Paris, France
 
+`2014-2015`
+__IT University, Copenhagen, Denmark__
+
+- Research assistant
+
+Key projects and achievements:
+
+Design and implementation of a Java FX virtual-reality application
+rendering Lego construction manuals step-by-step, where the user can
+move between steps and manipulate a 3D model of the Lego model using
+only their eyes; this project was showcased at the CES 2015.
+
+`2013-2014`
+__Medial Insight A/S, Copenhagen, Denmark__
+
+- Student programmer
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+To be added.
