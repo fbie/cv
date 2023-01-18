@@ -14,7 +14,7 @@ Software Engineer, PhD in Computer Science
 
 ## Currently
 
-Tech Lead, Senior Software Engineer at SimCorp.
+Tech Lead and Lead Software Engineer at SimCorp.
 
 ## Overview ##
 
@@ -59,7 +59,7 @@ __University of Bremen, Bremen, Germany__
 `2018-now`
 __SimCorp, Copenhagen, Denmark__
 
-- Senior Software Developer, Tech Lead
+- Lead Software Developer, Tech Lead
 - C\#, OCaml, F\#
 
 `2014-2015`
