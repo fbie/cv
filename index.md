@@ -14,7 +14,7 @@ Software Engineer, PhD in Computer Science
 
 ## Currently
 
-Tech Lead and Lead Software Engineer at SimCorp.
+Tech lead and Lead Software Engineer at SimCorp and part-time lecturer at the IT University of Copenhagen.
 
 ## Overview ##
 
@@ -27,12 +27,54 @@ C\#, F\#, OCaml, Emacs Lisp
 Java, C++, Python, Ruby, Racket
 
 
+## Employment
+
+`2023-now`
+__IT University, Copenhagen, Denmark__
+
+- Part-time lecturer for "Advanced Programming"
+- Functional programming in Scala
+- Covers the first five-six lectures of the course
+
+`2018-now`
+__SimCorp, Copenhagen, Denmark__
+
+- Lead Software Developer, Tech Lead
+- Planning business features and enablers
+- Onboarding and mentoring new colleagues
+- Key projects:
+  - Inventing an API for OTC instruments
+  - Implementing Specflow to allow business testers to write integration tests
+  - Full re-write of the Trade Manager importer flow
+  - Boostrapping of the OTC web API from the Trade Manager importer
+  - Mentoring master students during their industry thesis
+- C\#, OCaml, F\#
+
+`2014-2015`
+__IT University, Copenhagen, Denmark__
+
+- Research assistant
+- Key projects:
+  - Building a gaze-tracking enabled, interactive LEGO construction manual
+  - Running HCI experiments
+  - Teaching assistant for "Practical Parallel and Concurrent Programming"
+- Java, F\#
+
+`2013-2014`
+__Medial Insight A/S, Copenhagen, Denmark__
+
+- Student programmer
+- C++, Ruby
+
+
 ## Education
 
 `2015-2018`
 __IT University of Copenhagen, Denmark__
 
 - PhD in Computer Science
+- Teaching assistant for "Practical Parallel and Concurrent Programming"
+- Exchange at The University of the Chinese Academy of Sciences (UCAS)
 - Dissertation: ["Data-Parallel Spreadsheet Programming"](https://pure.itu.dk/portal/en/publications/id(4c3a3148-5ab5-4c8c-82b6-4e623a8789b4).html)
 - Supervised by Prof. Peter Sestoft
 
@@ -52,27 +94,6 @@ __Art Institute of Boston, Boston, USA__
 __University of Bremen, Bremen, Germany__
 
 - B.Sc. in Digital Media
-
-
-## Employment
-
-`2018-now`
-__SimCorp, Copenhagen, Denmark__
-
-- Lead Software Developer, Tech Lead
-- C\#, OCaml, F\#
-
-`2014-2015`
-__IT University, Copenhagen, Denmark__
-
-- Research assistant
-- Java, F\#
-
-`2013-2014`
-__Medial Insight A/S, Copenhagen, Denmark__
-
-- Student programmer
-- C++, Ruby
 
 
 ## Publications
