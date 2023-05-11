@@ -9,6 +9,7 @@ Software Engineer, PhD in Computer Science
 <a href="florian.biermann@protonmail.com">florian.biermann@protonmail.com</a>
 | <a href="https://github.com/fbie">GitHub</a>
 | <a href="https://www.linkedin.com/in/fbie">LinkedIn</a>
+| <a rel="me" href="https://indieweb.social/@superf">Mastodon</a>
 </div>
 
 
