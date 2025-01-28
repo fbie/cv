@@ -9,7 +9,6 @@ Software Engineer, PhD in Computer Science
 <a href="florian.biermann@protonmail.com">florian.biermann@protonmail.com</a>
 | <a href="https://github.com/fbie">GitHub</a>
 | <a href="https://www.linkedin.com/in/fbie">LinkedIn</a>
-| <a rel="me" href="https://indieweb.social/@superf">Mastodon</a>
 </div>
 
 
@@ -40,10 +39,17 @@ __IT University, Copenhagen, Denmark__
 `2018-now`
 __SimCorp, Copenhagen, Denmark__
 
-- Lead Software Developer, Tech Lead
+- Principal Software Developer, Tech Lead
+- Previous titles:
+  - Software Developer (2018)
+  - Senior Software Developer (2020)
+  - Lead Software Developer (2022)
 - Planning business features and enablers
 - Onboarding and mentoring new colleagues
 - Key projects:
+  - Technical roadmap for improving performance of the OTC platform
+  - Inventing an operational semantics for modelling a new business logic execution mechanism
+  - Designing a database for business logic metadata
   - Inventing an API for OTC instruments
   - Implementing Specflow to allow business testers to write integration tests
   - Full re-write of the Trade Manager importer flow
@@ -56,7 +62,7 @@ __IT University, Copenhagen, Denmark__
 
 - Research assistant
 - Key projects:
-  - Building a gaze-tracking enabled, interactive LEGO construction manual
+  - A gaze-tracking enabled, interactive LEGO construction manual that was presented at [CES 2015](https://www.cnet.com/videos/build-lego-with-your-eyes/)
   - Running HCI experiments
   - Teaching assistant for "Practical Parallel and Concurrent Programming"
 - Java, F\#
@@ -66,7 +72,7 @@ __Medial Insight A/S, Copenhagen, Denmark__
 
 - Student programmer
 - C++, Ruby
-
+- This is where I learned how to use Git and that trailing whitespaces are bad.
 
 ## Education
 
