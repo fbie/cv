@@ -44,15 +44,17 @@ __SimCorp, Copenhagen, Denmark__
   - Software Developer (2018)
   - Senior Software Developer (2020)
   - Lead Software Developer (2022)
-- Planning business features and enablers
-- Onboarding and mentoring new colleagues
+- Planning business features and enablers in the financial derivatives (OTC) space
+- Onboarding and mentoring of new colleagues
+- Maintenance and development of an eDSL for OTC instruments in OCaml and C\#
 - Key projects:
+  - Various enhancements for the OTC eDSL (consistency, expressiveness, ease-of-use)
   - Technical roadmap for improving performance of the OTC platform
   - Inventing an operational semantics for modelling a new business logic execution mechanism
-  - Designing a database for business logic metadata
+  - Designing a database for business logic eDSL for use in development tooling or non-technical stakeholders
   - Inventing an API for OTC instruments
-  - Implementing Specflow to allow business testers to write integration tests
-  - Full re-write of the Trade Manager importer flow
+  - Implementing a Gherkin-based DSL to allow business testers to write integration tests
+  - Re-design of the OTC importer flow
   - Boostrapping of the OTC web API from the Trade Manager importer
   - Mentoring master students during their industry thesis
 - C\#, OCaml, F\#
