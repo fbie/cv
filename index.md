@@ -29,21 +29,21 @@ Java, C++, Python, Ruby, Racket
 
 ## Employment
 
-`2023-now`
+`2023-2025`
 __IT University, Copenhagen, Denmark__
 
 - Part-time lecturer for "Advanced Programming"
 - Functional programming in Scala
 - Covers the first five-six lectures of the course
 
-`2018-now`
+`2018-2025`
 __SimCorp, Copenhagen, Denmark__
 
 - Principal Software Developer, Tech Lead
 - Previous titles:
   - Software Developer (2018)
   - Senior Software Developer (2020)
-  - Lead Software Developer (2022)
+  - Lead/Principal Software Developer (2022)
 - Planning business features and enablers in the financial derivatives (OTC) space
 - Onboarding and mentoring of new colleagues
 - Maintenance and development of an eDSL for OTC instruments in OCaml and C\#
