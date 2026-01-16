@@ -14,20 +14,26 @@ Software Engineer, PhD in Computer Science
 
 ## Currently
 
-Tech lead and Lead Software Engineer at SimCorp and part-time lecturer at the IT University of Copenhagen.
+Systems developer at NES Tech A/S.
 
 ## Overview ##
 
 Object-oriented and functional programming; weak memory models; concurrency and parallel programming.
 
 `Currently`
-C\#, F\#, OCaml, Emacs Lisp
+C\#, Emacs Lisp
 
 `Previously`
-Java, C++, Python, Ruby, Racket
+F\#, OCaml, Java, C++, Python, Ruby, Racket
 
 
 ## Employment
+
+`2025-now`
+__NES Tech A/S, Copenhagen, Denmark__
+
+- System developer
+- ???
 
 `2023-2025`
 __IT University, Copenhagen, Denmark__
