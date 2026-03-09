@@ -33,7 +33,7 @@ F\#, OCaml, Java, C++, Python, Ruby, Racket
 __NES Tech A/S, Copenhagen, Denmark__
 
 - System developer
-- ???
+- Implementing business features and working on the in-house business modelling DSL.
 
 `2023-2025`
 __IT University, Copenhagen, Denmark__
