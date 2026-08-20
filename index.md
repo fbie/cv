@@ -14,14 +14,14 @@ Software Engineer, PhD in Computer Science
 
 ## Currently
 
-Systems developer at NES Tech A/S.
+Senior software engineer at Keylane A/S.
 
 ## Overview ##
 
 Object-oriented and functional programming; weak memory models; concurrency and parallel programming.
 
 `Currently`
-C\#, Emacs Lisp
+Java, Emacs Lisp
 
 `Previously`
 F\#, OCaml, Java, C++, Python, Ruby, Racket
@@ -29,7 +29,12 @@ F\#, OCaml, Java, C++, Python, Ruby, Racket
 
 ## Employment
 
-`2025-now`
+`2026-now`
+__Keylane A/S, Copenhagen, Denmark__
+
+- Senior software engineer
+
+`2025-2026`
 __NES Tech A/S, Copenhagen, Denmark__
 
 - System developer
