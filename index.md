@@ -22,8 +22,11 @@ PhD in computer science, M.Sc. in IT, with extensive industry experience as tech
 
 My technical core strengths are object-oriented and functional programming; weak memory models; concurrency and parallel programming; and programming language design and implementation.
 
-- Languages: F\#, OCaml, Java, C\#, C++, Python, Ruby, Racket and Emacs Lisp.
-- Domains: weak memory models, concurrent programming, DSL design and implementation.
+`Languages`
+F\#, OCaml, Java, C\#, C++, Python, Ruby, Racket and Emacs Lisp.
+
+`Domains`
+Weak memory models, concurrent programming, DSL design and implementation.
 
 ## Employment
 
