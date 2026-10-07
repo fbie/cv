@@ -36,6 +36,13 @@ __Keylane A/S, Copenhagen, Denmark__
 - Senior software engineer
 - Implementing business features in Java
 
+`2026-now`
+__Thread & Type__
+
+- Owner and chief consultant
+- IT consultancy for parallel and concurrent programming (thread) and functional programming (type).
+- Running workshops about parallel and concurrent programming using [threading mysteries.](https://codeberg.org/fbie/threading-mysteries)
+
 `2025-2026`
 __NES Tech A/S, Copenhagen, Denmark__
 
