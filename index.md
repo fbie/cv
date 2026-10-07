@@ -18,14 +18,12 @@ Senior software engineer at Keylane A/S.
 
 ## Overview ##
 
-Object-oriented and functional programming; weak memory models; concurrency and parallel programming.
+PhD in computer science, M.Sc. in IT, with extensive industry experience as tech lead, leading architecture, programming language design and parallel and concurrent programming.
 
-`Currently`
-Java, Emacs Lisp
+My technical core strengths are object-oriented and functional programming; weak memory models; concurrency and parallel programming; and programming language design and implementation.
 
-`Previously`
-F\#, OCaml, Java, C++, Python, Ruby, Racket
-
+- Languages: F\#, OCaml, Java, C\#, C++, Python, Ruby, Racket and Emacs Lisp.
+- Domains: weak memory models, concurrent programming, DSL design and implementation.
 
 ## Employment
 
@@ -33,19 +31,22 @@ F\#, OCaml, Java, C++, Python, Ruby, Racket
 __Keylane A/S, Copenhagen, Denmark__
 
 - Senior software engineer
+- Implementing business features in Java
 
 `2025-2026`
 __NES Tech A/S, Copenhagen, Denmark__
 
 - System developer
-- Implementing business features and working on the in-house business modelling DSL.
+- Implementing business features using the in-house domain-specific language (DSL).
+- Built an experimental backend for the DSL for enhanced performance and safety, including Hindley-Milner style type inference.
 
 `2023-2025`
 __IT University, Copenhagen, Denmark__
 
 - Part-time lecturer for "Advanced Programming"
 - Functional programming in Scala
-- Covers the first five-six lectures of the course
+- Monads, type theory, API design
+- Covering first five-six lectures of the course
 
 `2018-2025`
 __SimCorp, Copenhagen, Denmark__
@@ -57,17 +58,18 @@ __SimCorp, Copenhagen, Denmark__
   - Lead/Principal Software Developer (2022)
 - Planning business features and enablers in the financial derivatives (OTC) space
 - Onboarding and mentoring of new colleagues
-- Maintenance and development of an eDSL for OTC instruments in OCaml and C\#
+- Maintenance and development of a domain-specific language (DSL) for OTC instruments in OCaml and C\#
 - Key projects:
-  - Various enhancements for the OTC eDSL (consistency, expressiveness, ease-of-use)
-  - Technical roadmap for improving performance of the OTC platform
-  - Inventing an operational semantics for modelling a new business logic execution mechanism
-  - Designing a database for business logic eDSL for use in development tooling or non-technical stakeholders
-  - Inventing an API for OTC instruments
-  - Implementing a Gherkin-based DSL to allow business testers to write integration tests
-  - Re-design of the OTC importer flow
-  - Boostrapping of the OTC web API from the Trade Manager importer
-  - Mentoring master students during their industry thesis
+  - various enhancements for the OTC DSL (performance, consistency, expressiveness, ease-of-use);
+  - technical roadmap for improving performance of the OTC platform;
+  - inventing an operational semantics for modelling a new business logic execution mechanism;
+  - designing a CodeQL-style database for business logic DSL for use in development tooling or non-technical stakeholders;
+  - inventing an API for OTC instruments, allowing for architecture reconciliation across departments;
+  - implementing a Gherkin-based DSL to allow business testers to write integration tests, going from 100 to more than 5000 business tests;
+  - re-design of the OTC importer flow;
+  - bootstrapping of the OTC web API from the Trade Manager importer;
+  - mentoring master students during their industry thesis; and
+  - experimental compiler from OCaml bytecode to .NET CIL;
 - C\#, OCaml, F\#
 
 `2014-2015`
@@ -146,7 +148,7 @@ __[A Gaze Interactive Textual Smartwatch Interface](http://dx.doi.org/10.1145/28
 - with John Paulin Hansen, Janus Aksø Madsen, Morten Jonassen, Haakon Lund, Javier San Agustin and Sebastian Sztuk
 - UbiComp '15
 
-__[A GazeWatch Pototype](http://dx.doi.org/10.1145/2786567.2792899)__
+__[A GazeWatch Prototype](http://dx.doi.org/10.1145/2786567.2792899)__
 - with John Paulin Hansen, Emilie Møllenbach, Haakon Lund, Javier San Agustin, Sebastian Sztuk
 - MobileHCI '15
 
